@@ -1,0 +1,13 @@
+{
+  "name": "nts-mini-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^7.3.1",
+    "micro-redirect": "^1.0.0"
+  }
+}
